@@ -133,7 +133,7 @@ module.exports = (m) => {
          msg: 'Hi +tag 🪸\nSistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v6.0.1\nBila Menemukan Error/Ingin Premium Beritahu Owner.',
          menuStyle: 4,
          cover: 'https://telegra.ph/file/d826ed4128ba873017479.jpg',
-         link: 'https://chat.whatsapp.com/Dh1USlrqIfmJT6Ji0Pm2pP'
+         link: 'https://chat.whatsapp.com/FvbHnOhh7jRHYmuHtcOwCz'
       }
    }
 }
