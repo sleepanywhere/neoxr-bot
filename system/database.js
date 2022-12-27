@@ -97,7 +97,7 @@ module.exports = (m) => {
       if (!('pluginDisable' in setting)) setting.pluginDisable = []
       if (!('groupmode' in setting)) setting.groupmode = false
       if (!('sk_pack' in setting)) setting.sk_pack = 'Sticker'
-      if (!('sk_author' in setting)) setting.sk_author = '@neoxrs'
+      if (!('sk_author' in setting)) setting.sk_author = '@'
       if (!('self' in setting)) setting.self = false
       if (!('mimic' in setting)) setting.mimic = []
       if (!('multiprefix' in setting)) setting.multiprefix = true
@@ -107,7 +107,7 @@ module.exports = (m) => {
       if (!('onlyprefix' in setting)) setting.onlyprefix = '+'
       if (!('owners' in setting)) setting.owners = ['6289626692456', '6289527206500']
       if (!isNumber(setting.lastReset)) setting.lastReset = new Date * 1
-      if (!('msg' in setting)) setting.msg = 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v6.0.1\nIf you find an error or want to upgrade premium plan contact the owner.'
+      if (!('msg' in setting)) setting.msg = 'Hi +tag 🪸\nSistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v6.0.1\nBila Menemukan Error/Ingin Premium Beritahu Owner.'
       if (!isNumber(setting.menuStyle)) setting.menuStyle = 4
       if (!('cover' in setting)) setting.cover = 'https://telegra.ph/file/d826ed4128ba873017479.jpg'
       if (!('link' in setting)) setting.link = 'https://chat.whatsapp.com/FvbHnOhh7jRHYmuHtcOwCz'
@@ -130,7 +130,7 @@ module.exports = (m) => {
          onlyprefix: '+',
          owners: ['6289626692456', '6289527206500'],
          lastReset: new Date * 1,
-         msg: 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v6.0.1\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.',
+         msg: 'Hi +tag 🪸\nSistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v6.0.1\nBila Menemukan Error/Ingin Premium Beritahu Owner.',
          menuStyle: 4,
          cover: 'https://telegra.ph/file/d826ed4128ba873017479.jpg',
          link: 'https://chat.whatsapp.com/Dh1USlrqIfmJT6Ji0Pm2pP'

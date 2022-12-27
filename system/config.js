@@ -26,9 +26,9 @@ global.chatai_key = 'MKPsfkgXLZPGrWoH'
 // Timezone (Default : Asia/Jakarta)
 global.timezone = 'Asia/Jakarta'
 // Bot version
-global.version = '2.2.2',
+global.version = '1.0',
 // Bot name
-global.botname = `© Ayane v${global.version} (Public Bot)`
+global.botname = `©Ayane v${global.version} (Public Bot)`
 // Footer text
 global.footer = 'Ayane Simple Bot Multi-Device'
 // Global status
