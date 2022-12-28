@@ -1,7 +1,7 @@
 {
    "users": [
       {
-         "jid": "6289527206500@s.whatsapp.net",
+         "jid": "6289626692456@s.whatsapp.net",
          "afk": -1,
          "afkReason": "",
          "banned": false,
@@ -9,12 +9,12 @@
          "banTimes": 0,
          "limit": 1025,
          "premium": true,
-         "expired": 1674760575450,
-         "lastseen": 1672168632533,
+         "expired": 1674769259139,
+         "lastseen": 1672202041261,
          "hit": 8,
-         "spam": 0,
+         "spam": 1,
          "warning": 0,
-         "usebot": 1672168632561
+         "usebot": 1672202041265
       },
       {
          "jid": "6285156173340@s.whatsapp.net",
@@ -26,13 +26,44 @@
          "limit": 25,
          "premium": false,
          "expired": 0,
-         "lastseen": 1672169185752,
+         "lastseen": 1672202023484,
          "hit": 0,
          "spam": 0,
          "warning": 0
       },
       {
-         "jid": "62895393327496@s.whatsapp.net",
+         "jid": "6289527206500@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 1021,
+         "premium": true,
+         "expired": 1674765228909,
+         "lastseen": 1672177178426,
+         "hit": 31,
+         "spam": 1,
+         "warning": 0,
+         "usebot": 1672177178430
+      },
+      {
+         "jid": "6288214372209@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 1025,
+         "premium": true,
+         "expired": 1674792056531,
+         "lastseen": 1672199899369,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6283845157103@s.whatsapp.net",
          "afk": -1,
          "afkReason": "",
          "banned": false,
@@ -41,55 +72,128 @@
          "limit": 25,
          "premium": false,
          "expired": 0,
-         "lastseen": 1672168559365,
+         "lastseen": 1672178540966,
          "hit": 0,
          "spam": 0,
          "warning": 0
       },
       {
-         "jid": "6289626692456@s.whatsapp.net",
+         "jid": "6282126069949@s.whatsapp.net",
          "afk": -1,
          "afkReason": "",
          "banned": false,
          "banTemp": 0,
          "banTimes": 0,
-         "limit": 1023,
-         "premium": true,
-         "expired": 1674760673691,
-         "lastseen": 1672169183969,
-         "hit": 9,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1672200000007,
+         "hit": 0,
          "spam": 1,
-         "warning": 0,
-         "usebot": 1672169183972
+         "warning": 0
+      },
+      {
+         "jid": "628887627760@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1672201669269,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6281325981757@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1672201614105,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
+      },
+      {
+         "jid": "6285850353207@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1672201311260,
+         "hit": 0,
+         "spam": 1,
+         "warning": 0
+      },
+      {
+         "jid": "6289630427832@s.whatsapp.net",
+         "afk": -1,
+         "afkReason": "",
+         "banned": false,
+         "banTemp": 0,
+         "banTimes": 0,
+         "limit": 25,
+         "premium": false,
+         "expired": 0,
+         "lastseen": 1672201504353,
+         "hit": 0,
+         "spam": 0,
+         "warning": 0
       }
    ],
    "chats": [
       {
-         "jid": "6289527206500@s.whatsapp.net",
-         "chat": 24,
+         "jid": "6289626692456@s.whatsapp.net",
+         "chat": 11,
          "lastchat": 0,
-         "lastseen": 1672168633965,
-         "command": 1672168632561
+         "lastseen": 1672202041261,
+         "command": 1672202041265
       },
       {
-         "jid": "status@broadcast",
-         "chat": 1,
+         "jid": "6289527206500@s.whatsapp.net",
+         "chat": 69,
          "lastchat": 0,
-         "lastseen": 1672168559365,
-         "command": 0
+         "lastseen": 1672177179258,
+         "command": 1672177178430
       },
       {
          "jid": "6289626692456-1616468516@g.us",
-         "chat": 22,
+         "chat": 3,
          "lastchat": 0,
-         "lastseen": 1672169185752,
-         "command": 1672169183972
+         "lastseen": 1672200059998,
+         "command": 1672200056530
+      },
+      {
+         "jid": "status@broadcast",
+         "chat": 2,
+         "lastchat": 0,
+         "lastseen": 1672201504353,
+         "command": 0
+      },
+      {
+         "jid": "6285251768013-1531292522@g.us",
+         "chat": 28,
+         "lastchat": 0,
+         "lastseen": 1672201849213,
+         "command": 1672201846178
       }
    ],
    "groups": [
       {
          "jid": "6289626692456-1616468516@g.us",
-         "activity": 1672169185752,
+         "activity": 1672200059998,
          "autoread": true,
          "antidelete": true,
          "antilink": false,
@@ -99,8 +203,55 @@
          "localonly": false,
          "mute": false,
          "member": {
+            "6288214372209@s.whatsapp.net": {
+               "lastseen": 1672178388020,
+               "warning": 0
+            },
             "6289626692456@s.whatsapp.net": {
-               "lastseen": 1672169183970,
+               "lastseen": 1672200056521,
+               "warning": 0
+            }
+         },
+         "text_left": "",
+         "text_welcome": "",
+         "welcome": true,
+         "expired": 0,
+         "stay": false
+      },
+      {
+         "jid": "6285251768013-1531292522@g.us",
+         "activity": 1672201849213,
+         "autoread": true,
+         "antidelete": true,
+         "antilink": false,
+         "antivirtex": false,
+         "filter": false,
+         "left": false,
+         "localonly": false,
+         "mute": false,
+         "member": {
+            "6288214372209@s.whatsapp.net": {
+               "lastseen": 1672199899387,
+               "warning": 0
+            },
+            "6282126069949@s.whatsapp.net": {
+               "lastseen": 1672200000010,
+               "warning": 0
+            },
+            "628887627760@s.whatsapp.net": {
+               "lastseen": 1672201669271,
+               "warning": 0
+            },
+            "6281325981757@s.whatsapp.net": {
+               "lastseen": 1672201614112,
+               "warning": 0
+            },
+            "6285850353207@s.whatsapp.net": {
+               "lastseen": 1672201311261,
+               "warning": 0
+            },
+            "6289626692456@s.whatsapp.net": {
+               "lastseen": 1672201846175,
                "warning": 0
             }
          },
@@ -113,59 +264,107 @@
    ],
    "statistic": {
       "setcover": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1672173080548,
+         "sender": "6289527206500"
+      },
+      "server": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1672173174372,
+         "sender": "6289527206500"
+      },
+      "limit": {
          "hitstat": 2,
          "today": 2,
-         "lasthit": 1672168547805,
+         "lasthit": 1672173794309,
          "sender": "6289527206500"
       },
       "+prem": {
          "hitstat": 3,
          "today": 3,
-         "lasthit": 1672168682121,
+         "lasthit": 1672200056530,
          "sender": "6289626692456"
       },
-      "groupmode": {
+      "list": {
+         "hitstat": 9,
+         "today": 9,
+         "lasthit": 1672175701810,
+         "sender": "6289527206500"
+      },
+      "update": {
          "hitstat": 1,
          "today": 1,
-         "lasthit": 1672168632561,
+         "lasthit": 1672173707980,
+         "sender": "6289527206500"
+      },
+      "me": {
+         "hitstat": 3,
+         "today": 3,
+         "lasthit": 1672201846179,
+         "sender": "6289626692456"
+      },
+      "p": {
+         "hitstat": 3,
+         "today": 3,
+         "lasthit": 1672175457841,
+         "sender": "6289527206500"
+      },
+      "ping": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1672175600087,
          "sender": "6289527206500"
       },
       "wallpaper": {
          "hitstat": 1,
          "today": 1,
-         "lasthit": 1672168819404,
-         "sender": "6289626692456"
+         "lasthit": 1672175685865,
+         "sender": "6289527206500"
       },
-      "play": {
+      "fb": {
          "hitstat": 1,
          "today": 1,
-         "lasthit": 1672168919763,
-         "sender": "6289626692456"
+         "lasthit": 1672176054860,
+         "sender": "6289527206500"
       },
-      "checkapi": {
+      "emojimix": {
+         "hitstat": 2,
+         "today": 2,
+         "lasthit": 1672177149255,
+         "sender": "6289527206500"
+      },
+      "autodownload": {
          "hitstat": 1,
          "today": 1,
-         "lasthit": 1672169142144,
-         "sender": "6289626692456"
+         "lasthit": 1672177168839,
+         "sender": "6289527206500"
       },
-      "update": {
+      "groupmode": {
          "hitstat": 1,
          "today": 1,
-         "lasthit": 1672169171298,
-         "sender": "6289626692456"
+         "lasthit": 1672177178430,
+         "sender": "6289527206500"
       },
-      "me": {
+      "+toxic": {
          "hitstat": 1,
          "today": 1,
-         "lasthit": 1672169183972,
+         "lasthit": 1672202022765,
+         "sender": "6289626692456"
+      },
+      "backup": {
+         "hitstat": 1,
+         "today": 1,
+         "lasthit": 1672202041265,
          "sender": "6289626692456"
       }
    },
    "sticker": {},
    "setting": {
-      "autodownload": true,
+      "autodownload": false,
       "debug": false,
-      "chatbot": true,
+      "chatbot": false,
       "error": [],
       "pluginDisable": [],
       "groupmode": true,
@@ -189,6 +388,7 @@
          "anjing",
          "anjrot",
          "anying",
+         "asu",
          "asw",
          "autis",
          "babi",
@@ -281,10 +481,10 @@
          "6289626692456",
          "6289527206500"
       ],
-      "lastReset": 1672168267194,
+      "lastReset": 1672172932677,
       "msg": "Hi +tag 🪸\nSistem otomatis (WhatsApp Bot) yang dapat membantu untuk melakukan sesuatu, mencari dan mendapatkan data/informasi hanya melalui WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v6.0.1\nBila Menemukan Error/Ingin Premium Beritahu Owner.",
       "menuStyle": 4,
-      "cover": "https://telegra.ph/file/2eb793d78b3769e824a45.jpg",
+      "cover": "https://telegra.ph/file/fc88e0e471d7c6d13033d.jpg",
       "link": "https://chat.whatsapp.com/FvbHnOhh7jRHYmuHtcOwCz"
    }
 }
